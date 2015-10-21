@@ -1,0 +1,23 @@
+name: gerard
+favicon: null
+layout_spectrum: 0.6324350435752422
+typography_spectrum: 0.9158811394590884
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.1551708709448576
+  lightness: 0.9180923155508935
+  saturation: 0.8000706490129232
+  rhythmicContrast: 0.5891400754917413
+purpose: []
